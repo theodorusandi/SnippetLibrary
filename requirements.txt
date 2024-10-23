@@ -1,0 +1,10 @@
+django
+django-cors-headers
+djangorestframework
+psycopg
+@mui/material
+axios
+js-cookie
+react-router-dom
+@tanstack/react-query
+@uiw/react-textarea-code-editor
